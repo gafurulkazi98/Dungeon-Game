@@ -1,0 +1,28 @@
+5
+|
+(0,2),(4,2)
+|
+(8,9,14,10,3)
+(6,8,7,5,13)
+(6,5,9,10,6)
+(5,10,8,7,6)
+(2,7,1,2,7)
+#
+      Level Map:
+     __ __ \/ __ __ 
+ 0  |   __      |  |
+ 1  |  |   __|__   |
+ 2  |  |__ __   |  |
+ 3  |__   |   __|  |
+ 4  |__ __|  |__ __|
+     0  1  2  3  4
+
+File content key:
+
+Size of levelmap
+|
+Starting coordinates,Goal coordinates
+|
+List of room exit types
+
+# <--Signifies end of file
